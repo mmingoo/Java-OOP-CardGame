@@ -46,7 +46,7 @@ public class GameManager implements Manager {
 
             // 카드 섞기 및 분배
             dealer.shuffleDeck(deck);
-            dealer.dealCards(players, deck, 5);
+            dealer.dealCards(players, deck, 2);
 
             // 승자 결정
             Player winner = game.playRound(deck, players, dealer, evaluator);

@@ -13,8 +13,13 @@ public class PokerCardPrinter implements Printer {
     HandEvaluator fiveCardDrawHandEvaluator = new FiveCardDrawHandEvaluator();
     @Override
     public void printRoundResult(int round, Player winner) {
-        System.out.println("라운드 " + round + " 승자: " + winner.getNickname());
-        System.out.println("승자: " + winner.getNickname()+"의 패 : "+ fiveCardDrawHandEvaluator.getHandRank(winner.getHand()));
+        if(winner == null){
+            System.out.println("딜러 승리!");
+        }else{
+            System.out.println("라운드 " + round + " 승자: " + winner.getNickname());
+            System.out.println("승자: " + winner.getNickname()+"의 패 : "+ fiveCardDrawHandEvaluator.getHandRank(winner.getHand()));
+        }
+
     }
 
     @Override

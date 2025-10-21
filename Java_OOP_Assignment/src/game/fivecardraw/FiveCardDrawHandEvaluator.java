@@ -26,8 +26,8 @@ public class FiveCardDrawHandEvaluator implements HandEvaluator {
     public int evaluate(List<Card> cards) {
 
         //카드가 없거나 카드가 5장이 아니면 에러 발생
-        if (cards == null || cards.size() != 5) {
-            throw new IllegalArgumentException("5장의 카드가 필요합니다.");
+        if (cards == null || cards.size() != 2) {
+            throw new IllegalArgumentException("2장의 카드가 필요합니다.");
         }
 
         // PokerCard로 캐스팅, 포커카드 담기

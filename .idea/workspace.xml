@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eb7cf1e-9309-42b0-b422-34f633788dd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/CardGameApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/CardGameApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/Interfaces/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/Interfaces/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/Interfaces/PlayerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/Interfaces/PlayerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/Interfaces/RewardDistributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/Interfaces/RewardDistributor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/config/PokerGameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/config/PokerGameConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/domain/player/PlayerInputValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/domain/player/PlayerInputValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/factory/DefaultPlayerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/factory/DefaultPlayerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/factory/PokerCardFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/factory/PokerCardFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/game/common/PokerCardPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/game/common/PokerCardPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/game/fivecardraw/FiveCardDrawGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/game/fivecardraw/FiveCardDrawGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/game/fivecardraw/StandardRewardDistributor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/game/fivecardraw/StandardRewardDistributor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/manager/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_OOP_Assignment/src/manager/GameManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_OOP_Assignment/src/util/PlayerInputValidator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/APP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/Game/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/CardGameFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/Dealer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/GameFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/HandEvaluator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/PlayerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/IntefaceCardGame/RewardDistributor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/card/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/card/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/card/PokerCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/config/PokerGameConfig$PokerGameConfigHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/config/PokerGameConfig$PokerGameConfigHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/config/PokerGameConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/config/PokerGameConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/dealer/FiveCardDrawDealer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/factory/DefaultPlayerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/factory/DefaultPlayerFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/factory/FiveCardDrawFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/factory/FiveCardDrawFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/factory/PokerCardFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/factory/PokerCardFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/manager/GameManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/manager/GameManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/manager/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/player/DefaultPlayerBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/player/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/player/PlayerBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/player/PlayerCreateDirector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/player/PlayerInputValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/player/PokerPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/pokerCardClass/FiveCardDrawDealer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/pokerCardClass/FiveCardDrawGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/pokerCardClass/FiveCardDrawHandEvaluator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/pokerCardClass/PokerCardPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_OOP_Assignment/pokerCardClass/StandardRewardDistributor.class" beforeDir="false" />
-    </list>
+    <list default="true" id="8eb7cf1e-9309-42b0-b422-34f633788dd8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -93,31 +46,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.APP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CardGameApp.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Java__OOP__Assignment__최민영&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Desktop/공부/KDT_BE13_Java-OOP_Assignment/Java_OOP_Assignment/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/admin/Desktop/공부/KDT_BE13_Java-OOP_Assignment/Java_OOP_Assignment/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.APP.executor": "Run",
+    "Application.CardGameApp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "last_opened_file_path": "/Users/admin/Desktop/공부/Spring/projects/KDT_BE13_Java-OOP_Assignment-Java_OOP_Assignment_-",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/admin/Desktop/공부/KDT_BE13_Java-OOP_Assignment/Java_OOP_Assignment/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="IntefaceCardGame" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Java_OOP_Assignment/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="game.blackjack" />
+      <recent name="factory" />
     </key>
   </component>
   <component name="RunManager">
@@ -157,6 +113,7 @@
       <workItem from="1753683338251" duration="11203000" />
       <workItem from="1753777117943" duration="12280000" />
       <workItem from="1753851740679" duration="278000" />
+      <workItem from="1761025602291" duration="11363000" />
     </task>
     <servers />
   </component>
